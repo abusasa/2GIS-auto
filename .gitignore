@@ -1,0 +1,15 @@
+# Виртуальное окружение
+venv/
+env/
+__pycache__/
+
+# Конфиденциальные данные и конфиги
+config.json
+.env
+
+# Логи и результаты работы
+app.log
+*.txt
+*.csv
+*.xlsx
+!requirements.txt

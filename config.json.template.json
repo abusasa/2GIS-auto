@@ -1,0 +1,10 @@
+{
+  "api_key": "ВАШ_КЛЮЧ_2GIS_API",
+  "city": "Алматы",
+  "categories": [
+    "Рестораны",
+    "Кафе",
+    "Салоны красоты"
+  ],
+  "output_file": "phones_list.txt"
+}
